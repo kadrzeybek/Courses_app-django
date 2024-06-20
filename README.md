@@ -1,1 +1,1 @@
-# Courses_webpage-django-
+# Courses_app(django)
